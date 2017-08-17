@@ -1,6 +1,6 @@
 # Night Owls Detector
 
-[TODO. There will be project description]
+The program prints the list of "night owls" at DEVMAN, who sent a solution after 24:00.
 
 # Project Goals
 
